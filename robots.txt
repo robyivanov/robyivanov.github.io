@@ -1,0 +1,3 @@
+User-agent: Googlebot
+Allow: /img/izverzhenie_lava_vulkan_sakura_derevo_45542_1920x1080.jpg
+Disallow: /img/
