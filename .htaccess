@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Protected Area"
-AuthUserFile /github.com/robyivanov/robyivanov.github.io/folled/.htpasswd
-Require valid-user
